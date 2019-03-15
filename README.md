@@ -1,2 +1,2 @@
-# space-data
+# space-data-polar-aurora-forecasting
 The aim of the work is to learn to learn how to model and forecast the auroral oval boundaries including the forecasting of auroral electrojet index AL. AL is designed to provide a global, quantitative measure of auroral zone magnetic activity produced by enhanced Ionospheric currents flowing below and within the auroral oval. The AE index is now widely used for researches in geomagnetism, aeronomy, and solar-terrestrial physics since it can create ground induced currents (auroral electrojets), cause communication problems, increased radiation dose in Low-Earth orbits (energetic electrons), etc. 
